@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: c9b7b370f8a2347689d2ab255450d2ea
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: curveCleanWaterDrip
+    100004: curveHairBlondWave
+    100006: curveInkSplash
+    100008: curveSmearColor
+    100010: curveSpatterHeavy
+    100012: curveThickOilRed
+    100014: curveVineGreyBud
+    100016: curveVineGreyBud1
+    100018: curveVineGreyBud2
+    100020: curveVineGreyBud3
+    100022: curveVineGreyBud4
+    100024: curveVineGreyBud5
+    100026: curveVineGreyBud6
+    100028: curveVineGreyBud7
+    100030: curveVineGreyBud8
+    100032: curveVitamineE
+    100034: curveWatertube
+    100036: group
+    100038: group1
+    100040: group10
+    100042: group2
+    100044: group3
+    100046: group4
+    100048: group5
+    100050: group6
+    100052: group7
+    100054: group8
+    100056: group9
+    100058: pasted__curveVineGreyBud2
+    100060: pasted__curveVineGreyBud3
+    100062: pasted__curveVineGreyBud4
+    100064: pasted__curveVineGreyBud5
+    100066: pasted__curveVineGreyBud6
+    100068: pasted__curveVineGreyBud7
+    100070: pasted__curveVineGreyBud8
+    100072: pasted__group3
+    100074: pasted__group3 1
+    100076: pasted__group4
+    100078: pasted__group4 1
+    100080: pasted__group5
+    100082: pasted__group5 1
+    100084: pasted__group6
+    100086: pasted__group6 1
+    100088: pasted__group7
+    100090: pasted__pasted__group3
+    100092: pasted__pasted__group4
+    100094: pasted__pasted__group5
+    100096: pasted__pasted__group6
+    100098: pasted__pasted__pCylinder10
+    100100: pasted__pasted__pCylinder11
+    100102: pasted__pasted__pCylinder12
+    100104: pasted__pasted__pCylinder5
+    100106: pasted__pasted__pCylinder5 1
+    100108: pasted__pasted__pCylinder6
+    100110: pasted__pasted__pCylinder7
+    100112: pasted__pasted__pCylinder8
+    100114: pasted__pasted__pCylinder9
+    100116: pasted__pasted__transform1
+    100118: pasted__pasted__transform2
+    100120: pasted__pasted__transform3
+    100122: pasted__pasted__transform4
+    100124: pasted__pasted__transform5
+    100126: pasted__pasted__transform6
+    100128: pasted__pasted__transform7
+    100130: pasted__pasted__transform8
+    100132: pasted__pCylinder1
+    100134: pasted__pCylinder10
+    100136: pasted__pCylinder10 1
+    100138: pasted__pCylinder11
+    100140: pasted__pCylinder11 1
+    100142: pasted__pCylinder12
+    100144: pasted__pCylinder12 1
+    100146: pasted__pCylinder13
+    100148: pasted__pCylinder3
+    100150: pasted__pCylinder4
+    100152: pasted__pCylinder5
+    100154: pasted__pCylinder5 1
+    100156: pasted__pCylinder5 2
+    100158: pasted__pCylinder6
+    100160: pasted__pCylinder6 1
+    100162: pasted__pCylinder7
+    100164: pasted__pCylinder7 1
+    100166: pasted__pCylinder8
+    100168: pasted__pCylinder8 1
+    100170: pasted__pCylinder9
+    100172: pasted__pCylinder9 1
+    100174: pasted__polySurface1
+    100176: pasted__strokeVineGreyBud2
+    100178: pasted__strokeVineGreyBud3
+    100180: pasted__strokeVineGreyBud4
+    100182: pasted__strokeVineGreyBud5
+    100184: pasted__strokeVineGreyBud6
+    100186: pasted__strokeVineGreyBud7
+    100188: pasted__strokeVineGreyBud8
+    100190: pasted__transform1
+    100192: pasted__transform1 1
+    100194: pasted__transform10
+    100196: pasted__transform11
+    100198: pasted__transform12
+    100200: pasted__transform2
+    100202: pasted__transform2 1
+    100204: pasted__transform3
+    100206: pasted__transform3 1
+    100208: pasted__transform4
+    100210: pasted__transform4 1
+    100212: pasted__transform5
+    100214: pasted__transform5 1
+    100216: pasted__transform6
+    100218: pasted__transform6 1
+    100220: pasted__transform7
+    100222: pasted__transform7 1
+    100224: pasted__transform8
+    100226: pasted__transform8 1
+    100228: pasted__transform9
+    100230: pasted__vineGreyBud2Main
+    100232: pasted__vineGreyBud2MeshGroup
+    100234: pasted__vineGreyBud3Main
+    100236: pasted__vineGreyBud3MeshGroup
+    100238: pasted__vineGreyBud4Main
+    100240: pasted__vineGreyBud4MeshGroup
+    100242: pasted__vineGreyBud5Main
+    100244: pasted__vineGreyBud5MeshGroup
+    100246: pasted__vineGreyBud6Main
+    100248: pasted__vineGreyBud6MeshGroup
+    100250: pasted__vineGreyBud7Main
+    100252: pasted__vineGreyBud7MeshGroup
+    100254: pasted__vineGreyBud8Main
+    100256: pasted__vineGreyBud8MeshGroup
+    100258: pCube1
+    100260: pCylinder1
+    100262: pCylinder10
+    100264: pCylinder11
+    100266: pCylinder12
+    100268: pCylinder13
+    100270: pCylinder14
+    100272: pCylinder14_MeshPart0
+    100274: pCylinder14_MeshPart1
+    100276: pCylinder2
+    100278: pCylinder3
+    100280: pCylinder4
+    100282: pCylinder5
+    100284: pCylinder5 1
+    100286: pCylinder6
+    100288: pCylinder7
+    100290: pCylinder8
+    100292: pCylinder9
+    100294: polySurface1
+    100296: polySurface10
+    100298: polySurface12
+    100300: polySurface2
+    100302: polySurface3
+    100304: polySurface4
+    100306: polySurface5
+    100308: polySurface6
+    100310: polySurface7
+    100312: polySurface8
+    100314: polySurface9
+    100316: strokeVineGreyBud1
+    100318: strokeVineGreyBud2
+    100320: strokeVineGreyBud3
+    100322: strokeVineGreyBud4
+    100324: strokeVineGreyBud5
+    100326: strokeVineGreyBud6
+    100328: strokeVineGreyBud7
+    100330: strokeVineGreyBud8
+    100332: transform1
+    100334: transform10
+    100336: transform11
+    100338: transform12
+    100340: transform13
+    100342: transform14
+    100344: transform15
+    100346: transform16
+    100348: transform17
+    100350: transform18
+    100352: transform19
+    100354: transform2
+    100356: transform20
+    100358: transform21
+    100360: transform22
+    100362: transform23
+    100364: transform24
+    100366: transform25
+    100368: transform26
+    100370: transform27
+    100372: transform28
+    100374: transform29
+    100376: transform3
+    100378: transform30
+    100380: transform31
+    100382: transform32
+    100384: transform33
+    100386: transform34
+    100388: transform35
+    100390: transform36
+    100392: transform37
+    100394: transform38
+    100396: transform39
+    100398: transform4
+    100400: transform40
+    100402: transform41
+    100404: transform5
+    100406: transform6
+    100408: transform7
+    100410: transform8
+    100412: transform9
+    100414: vineGreyBud2Main
+    100416: vineGreyBud2MeshGroup
+    100418: vineGreyBud3Main
+    100420: vineGreyBud3MeshGroup
+    100422: vineGreyBud4Main
+    100424: vineGreyBud4MeshGroup
+    100426: vineGreyBud5Main
+    100428: vineGreyBud5MeshGroup
+    100430: vineGreyBud6Main
+    100432: vineGreyBud6MeshGroup
+    100434: vineGreyBud7Main
+    100436: vineGreyBud7MeshGroup
+    100438: vineGreyBud8Main
+    100440: vineGreyBud8MeshGroup
+    400000: //RootNode
+    400002: curveCleanWaterDrip
+    400004: curveHairBlondWave
+    400006: curveInkSplash
+    400008: curveSmearColor
+    400010: curveSpatterHeavy
+    400012: curveThickOilRed
+    400014: curveVineGreyBud
+    400016: curveVineGreyBud1
+    400018: curveVineGreyBud2
+    400020: curveVineGreyBud3
+    400022: curveVineGreyBud4
+    400024: curveVineGreyBud5
+    400026: curveVineGreyBud6
+    400028: curveVineGreyBud7
+    400030: curveVineGreyBud8
+    400032: curveVitamineE
+    400034: curveWatertube
+    400036: group
+    400038: group1
+    400040: group10
+    400042: group2
+    400044: group3
+    400046: group4
+    400048: group5
+    400050: group6
+    400052: group7
+    400054: group8
+    400056: group9
+    400058: pasted__curveVineGreyBud2
+    400060: pasted__curveVineGreyBud3
+    400062: pasted__curveVineGreyBud4
+    400064: pasted__curveVineGreyBud5
+    400066: pasted__curveVineGreyBud6
+    400068: pasted__curveVineGreyBud7
+    400070: pasted__curveVineGreyBud8
+    400072: pasted__group3
+    400074: pasted__group3 1
+    400076: pasted__group4
+    400078: pasted__group4 1
+    400080: pasted__group5
+    400082: pasted__group5 1
+    400084: pasted__group6
+    400086: pasted__group6 1
+    400088: pasted__group7
+    400090: pasted__pasted__group3
+    400092: pasted__pasted__group4
+    400094: pasted__pasted__group5
+    400096: pasted__pasted__group6
+    400098: pasted__pasted__pCylinder10
+    400100: pasted__pasted__pCylinder11
+    400102: pasted__pasted__pCylinder12
+    400104: pasted__pasted__pCylinder5
+    400106: pasted__pasted__pCylinder5 1
+    400108: pasted__pasted__pCylinder6
+    400110: pasted__pasted__pCylinder7
+    400112: pasted__pasted__pCylinder8
+    400114: pasted__pasted__pCylinder9
+    400116: pasted__pasted__transform1
+    400118: pasted__pasted__transform2
+    400120: pasted__pasted__transform3
+    400122: pasted__pasted__transform4
+    400124: pasted__pasted__transform5
+    400126: pasted__pasted__transform6
+    400128: pasted__pasted__transform7
+    400130: pasted__pasted__transform8
+    400132: pasted__pCylinder1
+    400134: pasted__pCylinder10
+    400136: pasted__pCylinder10 1
+    400138: pasted__pCylinder11
+    400140: pasted__pCylinder11 1
+    400142: pasted__pCylinder12
+    400144: pasted__pCylinder12 1
+    400146: pasted__pCylinder13
+    400148: pasted__pCylinder3
+    400150: pasted__pCylinder4
+    400152: pasted__pCylinder5
+    400154: pasted__pCylinder5 1
+    400156: pasted__pCylinder5 2
+    400158: pasted__pCylinder6
+    400160: pasted__pCylinder6 1
+    400162: pasted__pCylinder7
+    400164: pasted__pCylinder7 1
+    400166: pasted__pCylinder8
+    400168: pasted__pCylinder8 1
+    400170: pasted__pCylinder9
+    400172: pasted__pCylinder9 1
+    400174: pasted__polySurface1
+    400176: pasted__strokeVineGreyBud2
+    400178: pasted__strokeVineGreyBud3
+    400180: pasted__strokeVineGreyBud4
+    400182: pasted__strokeVineGreyBud5
+    400184: pasted__strokeVineGreyBud6
+    400186: pasted__strokeVineGreyBud7
+    400188: pasted__strokeVineGreyBud8
+    400190: pasted__transform1
+    400192: pasted__transform1 1
+    400194: pasted__transform10
+    400196: pasted__transform11
+    400198: pasted__transform12
+    400200: pasted__transform2
+    400202: pasted__transform2 1
+    400204: pasted__transform3
+    400206: pasted__transform3 1
+    400208: pasted__transform4
+    400210: pasted__transform4 1
+    400212: pasted__transform5
+    400214: pasted__transform5 1
+    400216: pasted__transform6
+    400218: pasted__transform6 1
+    400220: pasted__transform7
+    400222: pasted__transform7 1
+    400224: pasted__transform8
+    400226: pasted__transform8 1
+    400228: pasted__transform9
+    400230: pasted__vineGreyBud2Main
+    400232: pasted__vineGreyBud2MeshGroup
+    400234: pasted__vineGreyBud3Main
+    400236: pasted__vineGreyBud3MeshGroup
+    400238: pasted__vineGreyBud4Main
+    400240: pasted__vineGreyBud4MeshGroup
+    400242: pasted__vineGreyBud5Main
+    400244: pasted__vineGreyBud5MeshGroup
+    400246: pasted__vineGreyBud6Main
+    400248: pasted__vineGreyBud6MeshGroup
+    400250: pasted__vineGreyBud7Main
+    400252: pasted__vineGreyBud7MeshGroup
+    400254: pasted__vineGreyBud8Main
+    400256: pasted__vineGreyBud8MeshGroup
+    400258: pCube1
+    400260: pCylinder1
+    400262: pCylinder10
+    400264: pCylinder11
+    400266: pCylinder12
+    400268: pCylinder13
+    400270: pCylinder14
+    400272: pCylinder14_MeshPart0
+    400274: pCylinder14_MeshPart1
+    400276: pCylinder2
+    400278: pCylinder3
+    400280: pCylinder4
+    400282: pCylinder5
+    400284: pCylinder5 1
+    400286: pCylinder6
+    400288: pCylinder7
+    400290: pCylinder8
+    400292: pCylinder9
+    400294: polySurface1
+    400296: polySurface10
+    400298: polySurface12
+    400300: polySurface2
+    400302: polySurface3
+    400304: polySurface4
+    400306: polySurface5
+    400308: polySurface6
+    400310: polySurface7
+    400312: polySurface8
+    400314: polySurface9
+    400316: strokeVineGreyBud1
+    400318: strokeVineGreyBud2
+    400320: strokeVineGreyBud3
+    400322: strokeVineGreyBud4
+    400324: strokeVineGreyBud5
+    400326: strokeVineGreyBud6
+    400328: strokeVineGreyBud7
+    400330: strokeVineGreyBud8
+    400332: transform1
+    400334: transform10
+    400336: transform11
+    400338: transform12
+    400340: transform13
+    400342: transform14
+    400344: transform15
+    400346: transform16
+    400348: transform17
+    400350: transform18
+    400352: transform19
+    400354: transform2
+    400356: transform20
+    400358: transform21
+    400360: transform22
+    400362: transform23
+    400364: transform24
+    400366: transform25
+    400368: transform26
+    400370: transform27
+    400372: transform28
+    400374: transform29
+    400376: transform3
+    400378: transform30
+    400380: transform31
+    400382: transform32
+    400384: transform33
+    400386: transform34
+    400388: transform35
+    400390: transform36
+    400392: transform37
+    400394: transform38
+    400396: transform39
+    400398: transform4
+    400400: transform40
+    400402: transform41
+    400404: transform5
+    400406: transform6
+    400408: transform7
+    400410: transform8
+    400412: transform9
+    400414: vineGreyBud2Main
+    400416: vineGreyBud2MeshGroup
+    400418: vineGreyBud3Main
+    400420: vineGreyBud3MeshGroup
+    400422: vineGreyBud4Main
+    400424: vineGreyBud4MeshGroup
+    400426: vineGreyBud5Main
+    400428: vineGreyBud5MeshGroup
+    400430: vineGreyBud6Main
+    400432: vineGreyBud6MeshGroup
+    400434: vineGreyBud7Main
+    400436: vineGreyBud7MeshGroup
+    400438: vineGreyBud8Main
+    400440: vineGreyBud8MeshGroup
+    2300000: pCube1
+    2300002: pCylinder13
+    2300004: pCylinder14_MeshPart0
+    2300006: pCylinder14_MeshPart1
+    3300000: pCube1
+    3300002: pCylinder13
+    3300004: pCylinder14_MeshPart0
+    3300006: pCylinder14_MeshPart1
+    4300000: pCube1
+    4300002: pCylinder13
+    4300004: pCylinder14_MeshPart0
+    4300006: pCylinder14_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
